@@ -1,0 +1,29 @@
+c:\users\артём\documents\visual studio 2015\Projects\MD_2\MD_2\bin\Debug\MD_2.exe.config
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\MD_2\MD_2\obj\Debug\MD_2.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\MD_2\MD_2\bin\Debug\MD_2.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\MD_2\MD_2\bin\Debug\MD_2.pdb
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\MD_2\MD_2\obj\Debug\MD_2.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\MD_2\MD_2\obj\Debug\MD_2.pdb
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\MD_2.exe.config
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\obj\Debug\MD_2.exe
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\obj\Debug\MD_2.pdb
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\MD_2.exe
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\MD_2.pdb
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\obj\Debug\MD_2.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\mscorlib.dll
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\normidna.nlp
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\normnfc.nlp
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\normnfd.nlp
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\normnfkc.nlp
+C:\Users\Артём\Desktop\для курсовой\MD_2\MD_2\bin\Debug\normnfkd.nlp
+C:\Users\Артём\Desktop\для курсовой\тренировочое задание\MD_2\MD_2\bin\Debug\MD_2.exe.config
+C:\Users\Артём\Desktop\для курсовой\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.exe
+C:\Users\Артём\Desktop\для курсовой\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.pdb
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\bin\Debug\MD_2.exe.config
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\bin\Debug\MD_2.exe
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\bin\Debug\MD_2.pdb
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.csproj.AssemblyReference.cache
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.csproj.CoreCompileInputs.cache
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.exe
+D:\MATERIALS\курсовая\тренировочое задание\MD_2\MD_2\obj\Debug\MD_2.pdb
